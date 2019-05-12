@@ -1,0 +1,11 @@
+body {
+    background-image: url ("assets/images/noisy_net.jpg");
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.title-message {
+    font-weight: 600;
+}
